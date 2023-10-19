@@ -17,7 +17,7 @@
 2. Блок-схема:  
 ![Блок-схема](evam_tast_2_.png)
 3. Done :)
-4. Done ![task_4/Program.cs](task_4/Program.cs):
+4. Done [task_4/Program.cs](task_4/Program.cs):
 ```
 string[] CreareArray(int count)
 {
